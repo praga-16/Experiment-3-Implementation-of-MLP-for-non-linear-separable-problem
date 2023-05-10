@@ -40,9 +40,10 @@ Step 4 : Test for the XOR patterns.
 
 ## PROGRAM
 ```python
-Developed By: Kiran J
-Reg No.: 212221240022
-
+Developed By: pragatheesvaran AB
+Reg No.: 212221240039
+```
+```
 import numpy as np
 import pandas as pd
 import io
